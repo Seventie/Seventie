@@ -15,7 +15,7 @@
 ### 🛠 Tech Stack  
 #### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,haskell" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,haskell" />
 </p>
 
 #### **ML / DL / AI**
