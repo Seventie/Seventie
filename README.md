@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Shaik Abdus Sattar</h2>
+<h2 align="center">Hi , I'm Shaik Abdus Sattar</h2>
 <h3 align="center">Machine Learning Engineer | Problem Solver | Full-Stack Developer</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Computer Science Engineering undergraduate** at **Amrita Vishwa Vidyapeetham**, passionate about building intelligent, scalable, and production-grade AI systems.  
 My interests span **Machine Learning, Deep Learning, NLP, Computer Vision**, and **Full-Stack Engineering**.
@@ -12,7 +12,7 @@ I focus on designing optimized algorithms, building ML pipelines, and deploying 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +74,7 @@ I focus on designing optimized algorithms, building ML pipelines, and deploying 
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="left">
 <a href="mailto:abdussattarshaik07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
