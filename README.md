@@ -5,55 +5,85 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering undergraduate** at **Amrita Vishwa Vidyapeetham**, passionate about building intelligent, scalable, and production-ready systems.  
-My work spans **Machine Learning, Deep Learning, Computer Vision, NLP**, and **Full-Stack Development**, with a strong focus on solving real-world problems through engineering and research-driven approaches.
+I'm a **Computer Science Engineering undergraduate** at **Amrita Vishwa Vidyapeetham**, passionate about building intelligent, scalable, and production-grade AI systems.  
+My interests span **Machine Learning, Deep Learning, NLP, Computer Vision**, and **Full-Stack Engineering**.
 
-I enjoy working across the stack — from **designing algorithms**, to **optimizing ML pipelines**, to **deploying cloud-native applications**.
-
-- 🧠 **Core Strengths**: Algorithmic problem-solving, model optimization, system design  
-- 🤖 **AI/ML Focus**: Computer Vision, Deep Learning, NLP, Multimodal learning  
-- ⚙️ **Software Engineering**: Scalable backend systems, API design, microservices  
-- ☁️ **Cloud & MLOps**: Deploying, monitoring, and maintaining real-world ML systems  
-- 🎯 **Goal**: Bridging research with practical, deployable engineering
+I focus on designing optimized algorithms, building ML pipelines, and deploying production systems using modern cloud/MLOps tools.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
-Python • C++ • Java • JavaScript • Haskell • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### **Machine Learning & Deep Learning**
-PyTorch • TensorFlow • Keras • scikit-learn • OpenCV  
-Transformers • Hugging Face • NumPy • Pandas • Matplotlib • Seaborn
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
 
 ### **MLOps & DevOps**
-Docker • Kubernetes • AWS • Git • GitHub Actions • MLflow  
-DVC • Weights & Biases • Apache Airflow • Terraform
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
 
 ### **Web Development**
-React • Node.js • Express.js  
-HTML • CSS • Tailwind CSS
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
 
 ### **Databases**
-MySQL • PostgreSQL • MongoDB • Redis
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
 
 ### **Embedded Systems & Hardware**
-Arduino • Raspberry Pi • ESP32  
-MPU-6050 IMU • STM32 Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:abdussattarshaik07@gmail.com">📧 Email</a><br>
-<a href="https://linkedin.com/in/seventie">🔗 LinkedIn</a><br>
-<a href="https://github.com/seventie">🐙 GitHub</a>
+<a href="mailto:abdussattarshaik07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/seventie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/seventie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to collaborating on impactful AI/ML projects and full-stack applications.</i>
+  <i>Open to collaborating on innovative AI/ML projects and full-stack applications.</i>
 </p>
