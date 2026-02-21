@@ -51,16 +51,12 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![CNNs](https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural_Language_Processing-059669?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge)
 ![Time-Series](https://img.shields.io/badge/Time--Series_Modeling-CA8A04?style=for-the-badge)
-![Representation Learning](https://img.shields.io/badge/Representation_Learning-DB2777?style=for-the-badge)
-![Model Optimization](https://img.shields.io/badge/Model_Optimization-9333EA?style=for-the-badge)
-![Training Pipelines](https://img.shields.io/badge/Training_Pipelines-0EA5E9?style=for-the-badge)
 
 ---
 
@@ -87,9 +83,7 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Containerized ML Deployments  
-- Cloud-Based Model Serving  
-- Reproducible ML Pipelines  
+
 
 ---
 
