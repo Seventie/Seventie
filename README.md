@@ -52,27 +52,26 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- Deep Learning  
-- CNNs  
-- Transformers  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Time-Series Modeling  
-- Representation Learning  
-- Model Optimization & Training Pipelines  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-059669?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge)
+![Time-Series](https://img.shields.io/badge/Time--Series_Modeling-CA8A04?style=for-the-badge)
+![Representation Learning](https://img.shields.io/badge/Representation_Learning-DB2777?style=for-the-badge)
+![Model Optimization](https://img.shields.io/badge/Model_Optimization-9333EA?style=for-the-badge)
+![Training Pipelines](https://img.shields.io/badge/Training_Pipelines-0EA5E9?style=for-the-badge)
 
 ---
 
 ### Backend & Systems Engineering
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- REST API Development  
-- Scalable Backend Architecture  
-- Performance Optimization  
-
----
+![REST APIs](https://img.shields.io/badge/REST_API_Development-1D4ED8?style=for-the-badge)
+![Scalable Architecture](https://img.shields.io/badge/Scalable_Backend_Architecture-6D28D9?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-15803D?style=for-the-badge)
 
 ### Data & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
