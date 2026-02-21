@@ -48,6 +48,8 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ![Compiler Design](https://img.shields.io/badge/Compiler_Design-0EA5E9?style=for-the-badge)
 ![Systems Programming](https://img.shields.io/badge/Systems_Programming-374151?style=for-the-badge)
 
+---
+
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -67,7 +69,8 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_API_Development-1D4ED8?style=for-the-badge)
 ![Scalable Architecture](https://img.shields.io/badge/Scalable_Backend_Architecture-6D28D9?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-15803D?style=for-the-badge)
+
+---
 
 ### Data & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -78,14 +81,6 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 
 ---
 
-### Infrastructure & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
----
 
 ## Let's Connect
 
