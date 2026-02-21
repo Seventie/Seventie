@@ -33,21 +33,20 @@ I enjoy bridging theory with practice — building models grounded in strong mat
 ---
 
 ### Mathematical Foundations
-- Linear Algebra  
-- Probability & Statistics  
-- Differentiation & Integration  
-- Optimization Principles  
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-1E3A8A?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability_&_Statistics-7C3AED?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Differentiation_&_Integration-DB2777?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization_Principles-059669?style=for-the-badge)
 
 ---
 
 ### Core Computer Science
-- Data Structures & Algorithms  
-- Operating Systems  
-- Theory of Computation  
-- Compiler Design  
-- Systems Programming Fundamentals  
-
----
+![Data Structures](https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-DC2626?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-9333EA?style=for-the-badge)
+![Theory of Computation](https://img.shields.io/badge/Theory_of_Computation-CA8A04?style=for-the-badge)
+![Compiler Design](https://img.shields.io/badge/Compiler_Design-0EA5E9?style=for-the-badge)
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-374151?style=for-the-badge)
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
