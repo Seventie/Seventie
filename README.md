@@ -15,7 +15,7 @@ My interests lie in understanding how **linear algebra, probability, optimizatio
 - Computer Vision & NLP
 - Time-Series modeling
 - Efficient training and scalable ML systems
-- Production deployment of AI systems
+- Production deployment of AI systems.
 
 I enjoy bridging theory with practice — building models grounded in strong mathematics and deploying them as optimized, production-grade systems.
 
